@@ -10,7 +10,7 @@ A collection of <a href="http://nestjs.com/" target="blank">Nest.js</a> samples 
 
 ## Samples / Techniques
 
-- TBC
+- [configuration][3]
 
 ## References
 
@@ -18,3 +18,4 @@ A collection of <a href="http://nestjs.com/" target="blank">Nest.js</a> samples 
 
 [1]: https://nestjs.com/
 [2]: https://docs.nestjs.com/
+[3]: /configuration
