@@ -1,0 +1,5 @@
+db:
+  database: DB_DATABASE
+  logging:
+    __name: DB_LOGGING
+    __format: boolean
