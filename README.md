@@ -11,6 +11,7 @@ A collection of <a href="http://nestjs.com/" target="blank">Nest.js</a> samples 
 ## Samples / Techniques
 
 - [configuration][3] - like [node-config](https://github.com/lorenwest/node-config) but Nest.js way
+- [swagger][4]
 
 ## References
 
@@ -19,3 +20,4 @@ A collection of <a href="http://nestjs.com/" target="blank">Nest.js</a> samples 
 [1]: https://nestjs.com/
 [2]: https://docs.nestjs.com/
 [3]: /configuration
+[4]: /swagger
