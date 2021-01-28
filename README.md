@@ -12,6 +12,7 @@ A collection of <a href="http://nestjs.com/" target="blank">Nest.js</a> samples 
 
 - [configuration][3] - like [node-config](https://github.com/lorenwest/node-config) but Nest.js way
 - [swagger][4] - setup swagger documentation based on [nest.js doc](https://docs.nestjs.com/openapi/introduction)
+- [common][5] - global common Nest.js module
 
 ## References
 
@@ -21,3 +22,4 @@ A collection of <a href="http://nestjs.com/" target="blank">Nest.js</a> samples 
 [2]: https://docs.nestjs.com/
 [3]: /configuration
 [4]: /swagger
+[5]: /common
