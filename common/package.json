@@ -27,7 +27,7 @@
     "class-transformer": "^0.3.2",
     "class-validator": "^0.13.1",
     "json-stringify-safe": "^5.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mask-json": "^1.0.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
